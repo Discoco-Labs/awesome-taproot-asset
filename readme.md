@@ -3,8 +3,6 @@
 > A curated list of awesome Taproot Assets  resources, apps, and libraries
 
 
-# Contents
-
 ## Taproot Assets Protocol
 
 ### Implementations of the Taproot Assets protocol.
