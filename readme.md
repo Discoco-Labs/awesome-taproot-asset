@@ -3,13 +3,7 @@
 > A curated list of awesome Taproot Assets  resources, apps, and libraries
 
 
-## Contents
-
-### Taproot Assets Protocol
-
-- [Implementations](#implementations)
-- [Specifications / White Papers](#specifications--white-papers)
-
+# Contents
 
 ## Taproot Assets Protocol
 
